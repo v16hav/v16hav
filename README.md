@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vibhav
 - 👀 I’m interested in app development, web designing
+- 😎I'm expert in python, mysql
 - 🌱 I’m currently learning C, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me v16hav@gmail.com
