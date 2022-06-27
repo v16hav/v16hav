@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vibhav
-- 👀 I’m interested in app development, web designing
-- 😎I'm expert in python, mysql
-- 🌱 I’m currently learning C, C++
+- 👀 I’m interested in web development
+- 😎I'm expert in python, mysql, css
+- 🌱 I’m currently learning C++ 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me v16hav@gmail.com
 
